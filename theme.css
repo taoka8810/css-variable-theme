@@ -1,0 +1,49 @@
+:root {
+  --theme-color-100: #f1f6ff;
+  --theme-color-200: #dde8fe;
+  --theme-color-300: #c1e2f4;
+  --theme-color-400: #2d9cca;
+  --theme-color-500: #2a4e96;
+  --theme-color-600: #061058;
+}
+
+body[data-theme="red"] {
+  --theme-color-100: #fffafb;
+  --theme-color-200: #f8e4e8;
+  --theme-color-300: #feb3b0;
+  --theme-color-400: #f5586b;
+  --theme-color-500: #9c0f0c;
+}
+
+body[data-theme="yellow"] {
+  --theme-color-100: #fffbe5;
+  --theme-color-200: #fef9d0;
+  --theme-color-300: #fbda90;
+  --theme-color-400: #f6b91a;
+  --theme-color-500: #693302;
+}
+
+body[data-theme="green"] {
+  --theme-color-100: #f3fff8;
+  --theme-color-200: #d3f3e0;
+  --theme-color-300: #a9e9c2;
+  --theme-color-400: #329a5c;
+  --theme-color-500: #0f462f;
+}
+
+body[data-theme="purple"] {
+  --theme-color-100: #fefcff;
+  --theme-color-200: #f3e4f5;
+  --theme-color-300: #e1acea;
+  --theme-color-400: #8a41b7;
+  --theme-color-500: #51165f;
+}
+
+body[data-theme="blue"] {
+  --theme-color-100: #f1f6ff;
+  --theme-color-200: #dde8fe;
+  --theme-color-300: #c1e2f4;
+  --theme-color-400: #2d9cca;
+  --theme-color-500: #2a4e96;
+  --theme-color-600: #061058;
+}

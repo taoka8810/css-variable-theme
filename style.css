@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+}
+
+body {
+  padding: 150px 220px;
+  background-color: var(--theme-color-100);
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: var(--theme-color-500);
+}
+
+p {
+  padding: 10px;
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.text01 {
+  background-color: var(--theme-color-200);
+}
+
+.text02 {
+  background-color: var(--theme-color-300);
+}
+
+.text03 {
+  color: white;
+  background-color: var(--theme-color-400);
+}
+
+.text04 {
+  color: white;
+  background-color: var(--theme-color-500);
+}
